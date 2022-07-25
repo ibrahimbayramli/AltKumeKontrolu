@@ -23,10 +23,10 @@ public class AltKumeKontrolu {
             }
 
         }
-        System.out.println(toplam);
+
         return resultFound;
     }
 
 
-    
+
 }
